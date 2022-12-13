@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=FF7139&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Abdaleh!+%F0%9F%91%8B;Passionate+Full-Stack+Developer;I%E2%80%99m+interested+in+gaming+and+tech&width=800" alt="Typing SVG" />
   </div>
 
-- 🔭 I’m currently working on [Mon-Frigo](https://github.com/Laura-Kam/Monfrigo)
+- 🔭 I’m currently working on [My react portfolio redesign](https://github.com/AbdalehHersi/react-portfolio-redesign)
 
 - 👯 I’m looking to collaborate on **any projects that use JS**
 
