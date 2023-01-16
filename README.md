@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **any projects that use JS**
 
-- 👨‍💻 All of my projects are available at [https://abdalehhersi.github.io/react-portfolio/](https://abdalehhersi.github.io/react-portfolio/)
+- 👨‍💻 All of my projects are available at [https://react-portfolio-redesign.vercel.app/](https://react-portfolio-redesign.vercel.app/)
 
 - 📫 How to reach me **hersiabdaleh@gmail.com**
 
